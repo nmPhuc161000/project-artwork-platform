@@ -1,1 +1,1 @@
-Link deploy front-end: https://deploy-vercel-five-jade.vercel.app/
+Link deploy front-end: https://deploy-vercel-five-jade.vercel.app
